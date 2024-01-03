@@ -19,7 +19,7 @@
 
 #
 
-## Íninio
+## Início
 
 ![image](https://github.com/ViniciusFerreiraDeSa/helloWorldPosts/assets/125524394/ff48b8f7-739a-4401-9a9a-41ce56d94cb3)
 
