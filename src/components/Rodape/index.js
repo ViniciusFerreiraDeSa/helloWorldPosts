@@ -10,7 +10,7 @@ export default function Rodape() {
     return (
         <footer className={styles.rodape}>
             <FaInstagramSquare />
-            <a href='https://www.instagram.com/vinnizx_sa/?hl=pt-br' target='_blank'>@vinnizx_sa</a>
+            <a href='https://www.instagram.com/vinnizxx__/?hl=pt-br' target='_blank'>@vinnizxx__</a>
         </footer>
     )
 }
